@@ -32,5 +32,13 @@
         <password>admin123</password> -->
     </snapshotRepository>
 </distributionManagement>
+
+<servers>
+        <server>
+            <id>snapshots</id>
+            <username>deployment</username>
+            <password>deployment123</password>
+        </server>
+</servers>
   
 </project>
