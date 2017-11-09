@@ -27,7 +27,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>plugins-snapshot</name>
-        <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+        <url>https://localhost:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
 </distributionManagement>
   
