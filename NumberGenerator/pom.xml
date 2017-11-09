@@ -28,8 +28,8 @@
         <id>snapshots</id>
         <name>plugins-snapshot</name>
         <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
-        <user>admin</user>
-        <password>admin123</password>
+        <!-- <user>admin</user>
+        <password>admin123</password> -->
     </snapshotRepository>
 </distributionManagement>
   
