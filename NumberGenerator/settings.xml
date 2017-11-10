@@ -1,4 +1,6 @@
 <settings>
+
+	<!-- 
 	<mirrors>
 		<mirror>
 			<id>nexus</id>
@@ -6,6 +8,8 @@
 			<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
 		</mirror>
 	</mirrors>
+	 -->
+	
 	<servers>
 		<server>
 			<id>nexus</id>
@@ -13,6 +17,8 @@
 			<password>admin123</password>
 		</server>
 	</servers>
+	
+	<!-- 
 	<profiles>
 		<profile>
 			<id>nexus</id>
@@ -45,4 +51,6 @@
 	<activeProfiles>
 		<activeProfile>nexus</activeProfile>
 	</activeProfiles>
+	 -->
+	
 </settings>
