@@ -23,6 +23,7 @@
     </dependency>
   </dependencies>
   
+  <!-- 
   <distributionManagement>
   <repository>
   	<id>nexus</id>
@@ -35,5 +36,5 @@
         <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
 </distributionManagement>
-  
+   -->
 </project>
