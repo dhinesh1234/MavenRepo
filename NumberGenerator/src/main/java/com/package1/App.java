@@ -9,5 +9,14 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World! Dhinesh" );
+        
+        int i = 2;
+        switch(i) {
+        case 1: System.out.println(i);
+        case 2: System.out.println(i);
+        case 3: System.out.println(i);
+        		break;
+        }
+        
     }
 }
