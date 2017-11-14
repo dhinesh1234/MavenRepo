@@ -14,6 +14,7 @@ public class App
         switch(i) {
         case 1: System.out.println(i);
         case 2: System.out.println(i);
+        		break;
         case 3: System.out.println(i);
         		break;
         }
