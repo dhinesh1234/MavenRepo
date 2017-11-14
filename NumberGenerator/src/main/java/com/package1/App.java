@@ -16,7 +16,7 @@ public class App
         case 2: System.out.println(i);
         		break;
         case 3: System.out.println(i);
-        System.out.println("ddd");		
+        System.out.println("dhinesh");		
         break;
         		
         }
