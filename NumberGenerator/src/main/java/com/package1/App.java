@@ -20,6 +20,7 @@ public class App
         break;
         		
         default: System.out.println("default log");
+        break;
         }
         
     }
