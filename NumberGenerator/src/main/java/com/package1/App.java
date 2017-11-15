@@ -24,4 +24,9 @@ public class App
         }
         
     }
+    
+    public void getNumber()
+    {
+    	System.out.println("Number");
+    }
 }
