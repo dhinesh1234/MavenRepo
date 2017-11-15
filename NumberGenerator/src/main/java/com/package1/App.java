@@ -19,6 +19,7 @@ public class App
         System.out.println("dhinesh");		
         break;
         		
+        default: System.out.println("default log");
         }
         
     }
