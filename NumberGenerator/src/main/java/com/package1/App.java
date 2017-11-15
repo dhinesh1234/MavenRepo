@@ -30,8 +30,5 @@ public class App
     	System.out.println("Number");
     }
     
-    public void getPhoneNumber()
-    {
-    	System.out.println("Phone Number");
-    }
+    
 }
